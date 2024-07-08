@@ -62,7 +62,8 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 
 🌍 **Deployment platforms:**<br>
 
-<img alt="Github Pages" width="20px" height="20px" src="https://techcrunch.com/wp-content/uploads/2010/07/github-logo.png" />![Github Pages](https://img.shields.io/badge/-Github%20Pages-000000?style=flat&logo=github-pages)  ![Netlify](https://img.shields.io/badge/-Netlify-000000?style=flat&logo=netlify&labelColor=000000)
+<img alt="Github Pages" width="20px" height="20px" src="https://techcrunch.com/wp-content/uploads/2010/07/github-logo.png" />![Github Pages](https://img.shields.io/badge/-Github%20Pages-000000?style=flat&logo=github-pages)  ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&labelColor=000000)
+
 
 
 <!-- 🚩 **Highlights:** <br>
@@ -78,7 +79,7 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 
 🤓 **Interested:** <br>
 
-![React JS](https://img.shields.io/badge/-React%20Native-000000?style=flat&logo=react&labelColor=000000)
+![React JS](https://img.shields.io/badge/-React%20JS-000000?style=flat&logo=react&labelColor=000000)
 <!-- ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=PHP&logoColor=5466b8&labelColor=ffffff) -->
 ![WordPress](https://img.shields.io/badge/-WordPress-000000?style=flat&logo=wordpress&labelColor=21759B)
 <!-- ![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=laravel&logoColor=ffffff&labelColor=FF2D20) -->
