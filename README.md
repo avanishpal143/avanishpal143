@@ -7,11 +7,11 @@ https://gist.github.com/rxaviers/7360908
 https://simpleicons.org/
 
 -->
-📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/Ahmad-Sawalqeh?label=Follow%20Me&style=social)](https://github.com/Ahmad-Sawalqeh)
+📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/avanishpal143?label=Follow%20Me&style=social)](https://github.com/avanishpal143)
 <br>
 <br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Avanish%20Pal-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/avanishpal143/)
-[![Mail](https://img.shields.io/badge/Hotmail-sawalqa_jo@hotmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:mravanishpal143@gmail.com)
+[![Mail](https://img.shields.io/badge/Gmail-mravanishpal143@gmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:mravanishpal143@gmail.com)
 <br>
 <!-- [![Codepen](https://img.shields.io/badge/Codepen-Ahmad%20Sawalqeh-gray?logo=codepen&logoColor=white&labelColor=black)](https://codepen.io/AhmadSawalqeh)
 [![Codesandbox](https://img.shields.io/badge/Codesandbox-Ahmad%20Sawalqeh-gray?logo=codesandbox&logoColor=white&labelColor=black)](https://codesandbox.io/u/Ahmad-Sawalqeh)
