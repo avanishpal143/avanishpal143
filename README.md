@@ -216,21 +216,3 @@ STATUS: READY TO BUILD 🚀
 <img src="https://skillicons.dev/icons?i=react,nodejs,nextjs,mongodb,python,docker,aws,linux,git,github&theme=dark" />
 
 </div>
-
----
-
-# 🧬 3D Developer Vibes
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="60"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=footer&animation=fadeIn"/>
-
-</div>
